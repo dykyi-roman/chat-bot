@@ -7,7 +7,7 @@ While BotMan itself is framework agnostic, BotMan is also available as a bundle 
 
 ## Books
 
-(Jorin Vogel - Chatbots: Development and Applications)[https://github.com/dykyi-roman/chat-bot/blob/master/books/chatbots.pdf)
+[Jorin Vogel - Chatbots: Development and Applications](https://github.com/dykyi-roman/chat-bot/blob/master/books/chatbots.pdf)
 
 ## Documentation
 
