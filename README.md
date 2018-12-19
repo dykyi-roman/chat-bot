@@ -9,9 +9,23 @@ While BotMan itself is framework agnostic, BotMan is also available as a bundle 
 
 [Jorin Vogel - Chatbots: Development and Applications](https://github.com/dykyi-roman/chat-bot/blob/master/books/chatbots.pdf)
 
+## AI
+
+* [wit.ai](https://wit.ai)
+
+* [Dialog flow](https://dialogflow.com)
+
+## Tutorials on Chatbots
+
+* [Chatbots magazine](https://chatbotsmagazine.com/tutorials/home)
+
+* [Chatbot academy](https://www.chatbot-academy.com/chatbot-courses)
+
+* [Chatbots & Conversational UI](https://uxdesign.cc/chatbots-conversational-ui/home)
+
+* [Chatbots fail storys](https://chatbot.fail/)
+
 ## Documentation
-
-
 
 ## Author
 [Dykyi Roman](https://www.linkedin.com/in/roman-dykyi-43428543/), e-mail: [mr.dukuy@gmail.com](mailto:mr.dukuy@gmail.com)
