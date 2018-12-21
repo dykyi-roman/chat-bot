@@ -15,11 +15,11 @@ While BotMan itself is framework agnostic, BotMan is also available as a bundle 
 
 2) Messenger plarform accepts request from websocket connection
 
-...HTTP request immediately recevied by bot application via websocket
+   HTTP request immediately recevied by bot application via websocket
 
-...Bot Application react and composes appropriate HHTP response
+   Bot Application react and composes appropriate HHTP response
 
-...Response delivered to the messenger platform via websocket
+   Response delivered to the messenger platform via websocket
 
 ## Books
 
