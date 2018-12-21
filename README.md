@@ -7,6 +7,20 @@ While BotMan itself is framework agnostic, BotMan is also available as a bundle 
 
 [BotMan Studio Website](https://botman.io/2.0/welcome)
 
+## How it`s work
+
+![image](https://github.com/dykyi-roman/chat-bot/blob/master/docs/bot_model.png)
+
+1) Bot application request websocket connection to messenger platform
+
+2) Messenger plarform accepts request from websocket connection
+
+...HTTP request immediately recevied by bot application via websocket
+
+...Bot Application react and composes appropriate HHTP response
+
+...Response delivered to the messenger platform via websocket
+
 ## Books
 
 [Jorin Vogel - Chatbots: Development and Applications](https://github.com/dykyi-roman/chat-bot/blob/master/books/chatbots.pdf)
