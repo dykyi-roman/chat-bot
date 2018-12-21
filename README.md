@@ -21,6 +21,8 @@ While BotMan itself is framework agnostic, BotMan is also available as a bundle 
 
    Response delivered to the messenger platform via websocket
 
+## Documentation
+
 ## Books
 
 [Jorin Vogel - Chatbots: Development and Applications](https://github.com/dykyi-roman/chat-bot/blob/master/books/chatbots.pdf)
@@ -40,8 +42,6 @@ While BotMan itself is framework agnostic, BotMan is also available as a bundle 
 * [Chatbots & Conversational UI](https://uxdesign.cc/chatbots-conversational-ui/home)
 
 * [Chatbots fail storys](https://chatbot.fail/)
-
-## Documentation
 
 ## Author
 [Dykyi Roman](https://www.linkedin.com/in/roman-dykyi-43428543/), e-mail: [mr.dukuy@gmail.com](mailto:mr.dukuy@gmail.com)
